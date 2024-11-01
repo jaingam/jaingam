@@ -7,7 +7,7 @@ I'm ...
 - bilingual, with near-native proficiency in English
 - looking for a fully remote position where I can work from the comfort of my home
 
-
+![Metrics](/github-metrics.svg)
 
 ### Languages and Frameworks
 - Working Knowledge
@@ -50,8 +50,6 @@ I'm ...
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 
 
-
-![Metrics](/github-metrics.svg)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jaingam)
 
